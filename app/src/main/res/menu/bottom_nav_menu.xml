@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_pop"
+        android:title="@string/menu_pop"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_pop_game"/>
+    <item
+        android:id="@+id/menu_new"
+        android:title="@string/menu_new"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_new_game"/>
+</menu>
